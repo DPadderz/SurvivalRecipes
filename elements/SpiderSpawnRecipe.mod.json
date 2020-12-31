@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.SPIDER_EYE"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.SPIDER_EYE"
@@ -28,13 +28,13 @@
         "value": "Items.SPIDER_EYE"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.SPIDER_EYE"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       }
     ],
     "recipeReturnStack": {

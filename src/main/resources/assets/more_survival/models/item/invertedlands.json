@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "more_survival:items/portal_bomb_texture"
+  }
+}

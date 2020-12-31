@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more_survival:blocks/creaturedust_ore",
+    "particle": "more_survival:blocks/creaturedust_ore"
+  }
+}

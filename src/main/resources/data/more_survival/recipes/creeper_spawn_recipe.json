@@ -2,13 +2,19 @@
   "group": "more_survival",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 1 ",
+    "012",
     "345",
-    " 7 "
+    "678"
   ],
   "key": {
+    "0": {
+      "item": "more_survival:creature_dust_dust"
+    },
     "1": {
       "item": "minecraft:gunpowder"
+    },
+    "2": {
+      "item": "more_survival:creature_dust_dust"
     },
     "3": {
       "item": "minecraft:gunpowder"
@@ -19,8 +25,14 @@
     "5": {
       "item": "minecraft:gunpowder"
     },
+    "6": {
+      "item": "more_survival:creature_dust_dust"
+    },
     "7": {
       "item": "minecraft:gunpowder"
+    },
+    "8": {
+      "item": "more_survival:creature_dust_dust"
     }
   },
   "result": {

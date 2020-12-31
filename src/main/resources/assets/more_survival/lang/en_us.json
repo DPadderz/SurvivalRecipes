@@ -1,4 +1,8 @@
 {
   "biome.more_survival.inverted_lands": "Inverted Lands",
+  "item.more_survival.creature_dust_dust": "Creature Dust",
+  "block.more_survival.creature_dust_block": "Block of Creature Dust",
+  "block.more_survival.creature_dust_ore": "Creature Dust Ore",
+  "item.more_survival.invertedlands": "Portal Bomb",
   "item.more_survival.compact_flesh": "Compact Flesh"
 }

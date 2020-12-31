@@ -11,32 +11,32 @@
       "item": "more_survival:creature_dust_dust"
     },
     "1": {
-      "item": "minecraft:spider_eye"
+      "item": "more_survival:creature_dust_dust"
     },
     "2": {
       "item": "more_survival:creature_dust_dust"
     },
     "3": {
-      "item": "minecraft:spider_eye"
+      "item": "more_survival:creature_dust_dust"
     },
     "4": {
-      "item": "minecraft:egg"
+      "item": "more_survival:creature_dust_dust"
     },
     "5": {
-      "item": "minecraft:spider_eye"
+      "item": "more_survival:creature_dust_dust"
     },
     "6": {
       "item": "more_survival:creature_dust_dust"
     },
     "7": {
-      "item": "minecraft:spider_eye"
+      "item": "more_survival:creature_dust_dust"
     },
     "8": {
       "item": "more_survival:creature_dust_dust"
     }
   },
   "result": {
-    "item": "minecraft:spider_spawn_egg",
+    "item": "more_survival:creature_dust_block",
     "count": 1
   }
 }

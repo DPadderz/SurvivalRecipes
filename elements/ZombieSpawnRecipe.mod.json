@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.ROTTEN_FLESH"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.ROTTEN_FLESH"
@@ -28,13 +28,13 @@
         "value": "Items.ROTTEN_FLESH"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.ROTTEN_FLESH"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       }
     ],
     "recipeReturnStack": {

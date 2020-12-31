@@ -1,0 +1,13 @@
+{
+  "group": "more_survival",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_survival:creature_dust_block"
+    }
+  ],
+  "result": {
+    "item": "more_survival:creature_dust_dust",
+    "count": 9
+  }
+}

@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.BONE"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.BONE"
@@ -28,13 +28,13 @@
         "value": "Items.BONE"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.BONE"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       }
     ],
     "recipeReturnStack": {

@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.GUNPOWDER"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.GUNPOWDER"
@@ -28,13 +28,13 @@
         "value": "Items.GUNPOWDER"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "Items.GUNPOWDER"
       },
       {
-        "value": ""
+        "value": "CUSTOM:CreatureDustDust"
       }
     ],
     "recipeReturnStack": {

@@ -13,34 +13,34 @@
         "value": "CUSTOM:CreatureDustDust"
       },
       {
-        "value": "Items.PORKCHOP"
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "CUSTOM:CreatureDustDust"
       },
       {
-        "value": "Items.PORKCHOP"
-      },
-      {
-        "value": "Items.EGG"
-      },
-      {
-        "value": "Items.PORKCHOP"
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "CUSTOM:CreatureDustDust"
       },
       {
-        "value": "Items.PORKCHOP"
+        "value": "CUSTOM:CreatureDustDust"
+      },
+      {
+        "value": "CUSTOM:CreatureDustDust"
+      },
+      {
+        "value": "CUSTOM:CreatureDustDust"
       },
       {
         "value": "CUSTOM:CreatureDustDust"
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.SPAWN_EGG#90"
+      "value": "CUSTOM:CreatureDustBlock"
     },
-    "name": "pig_spawn_recipe",
+    "name": "creature_dust_ore_block_recipe",
     "namespace": "mod"
   }
 }
