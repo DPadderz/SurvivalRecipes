@@ -1,0 +1,127 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SpawnerRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spawner_recipe"
+    },
+    {
+      "name": "IronHorseArmorRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_horse_armor_recipe"
+    },
+    {
+      "name": "SpiderSpawnRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_spawn_recipe"
+    },
+    {
+      "name": "ZombieSpawnRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_spawn_recipe"
+    },
+    {
+      "name": "SkeletonSpawnRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skeleton_spawn_recipe"
+    },
+    {
+      "name": "CreeperSpawnRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creeper_spawn_recipe"
+    },
+    {
+      "name": "PigSpawnRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pig_spawn_recipe"
+    },
+    {
+      "name": "CowSpawnRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cow_spawn_recipe"
+    },
+    {
+      "name": "SheepSpawnRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sheep_spawn_recipe"
+    },
+    {
+      "name": "LeatherSmelting",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_smelting"
+    },
+    {
+      "name": "SaddleRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saddle_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "more_survival",
+    "modName": "More Survival",
+    "version": "1.0.0",
+    "author": "miffs, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "modElementsPackage": "net.mcreator.moresurvival",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000652319
+}
