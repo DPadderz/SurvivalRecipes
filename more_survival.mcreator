@@ -99,12 +99,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "saddle_recipe"
+    },
+    {
+      "name": "CompactFlesh",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compact_flesh"
+    },
+    {
+      "name": "CompactFleshRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compact_flesh_recipe"
+    },
+    {
+      "name": "InvertedLands",
+      "type": "biome",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "inverted_lands"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "biome.more_survival.inverted_lands": "Inverted Lands",
+      "item.more_survival.compact_flesh": "Compact Flesh"
+    }
   },
   "workspaceSettings": {
     "modid": "more_survival",
